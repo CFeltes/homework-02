@@ -40,7 +40,7 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ## Installation
 Step-by-step instructions on how to install and set up your project.
 
-Creating a template 
+Creating a template for displaying my resume, projects, and development as a coder for potential future employers
 
 ## Usage
 Instructions on how to use your application.
