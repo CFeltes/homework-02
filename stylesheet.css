@@ -26,7 +26,7 @@
   
   .aboutMeHeader {
       padding-right: 20px;
-      border-right: solid #FF8C00 7px;
+      border-right: solid #2f0bbd 7px;
       line-height: 75px;
   }
   
@@ -43,7 +43,7 @@
   
   .workHistoryHeader {
       padding-right: 20px;
-      border-right: solid #FF8C00 7px;
+      border-right: solid #2f0bbd 7px;
   }
   
   .workHistoryContainer {
@@ -82,7 +82,7 @@
   
   .contactMeHeader {
       padding-right: 20px;
-      border-right: solid #FF8C00 7px;
+      border-right: solid #2f0bbd 7px;
   }
   
   .contactMe {
@@ -110,7 +110,7 @@
   }
   
   button {
-      background-color: #FF8C00;
+      background-color: #2f0bbd;
       height: 35px;
       width: 100px;
       border-radius: 10px;
@@ -134,6 +134,6 @@
   }
   
   a:hover {
-      color: #FF8C00;
+      color: #2f0bbd;
   }
   
