@@ -5,9 +5,11 @@ Second homework assignment
 ## Description
 Second homework assignment - Professional Portfolio
 
+
+
 ## Table of Contents
-- [User-Story] (#user-story)
-- [Acceptance-Criteria] (#acceptance-criteria)
+- [User-Story] (#User Story)
+- [Acceptance-Criteria] (#Acceptance-Criteria)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -38,23 +40,23 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ## Installation
 Step-by-step instructions on how to install and set up your project.
 
-Edit source code to be more accessible and manageable
+Creating a template 
 
 ## Usage
 Instructions on how to use your application.
-CSS
-1. Bundle repeating classes
-2. Remove redundant properties (font-family declarations)
-3. Simplify structure
-HTML
-1. HTML tags
-2. Avoid unnecessary verbage
-3. Added attributes
-4. Simplify structure
+
+Visit my sites here!
+https://CFeltes.github.io/homework-02/
+https://github.com/CFeltes/homework-02
+
+![See First Page Screenshot](Screenshot-1.jpg)
+![See Secord Page Screenshot](Screenshot-2.jpg)
+![See Third Page Screenshot](Screenshot-3.jpg)
+
 
 ## Contributing
 Guidelines for contributing to the project.
-Sole contributors were the author of the source code, AI, and owner of this repository (Cory Feltes) 
+Contributors were the author of the source code, AI, help from the program's tutors, and owner of this repository (Cory Feltes) 
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
